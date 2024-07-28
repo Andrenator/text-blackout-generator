@@ -1,7 +1,9 @@
 # text-blackout-generator
+
 This is a project to make a script which takes a small amount of input text and generates some possibilities for blacking out text to say something new.
 
-# Examples
+## Examples
+
 One of my favorite examples of this is a Kung-Fu Panda meme which uses the line,
 
 > Finally, a worthy opponent! Our battle will be legendary!
@@ -11,7 +13,8 @@ Which is edited by blacking out text and adding a caption:
 > When fish evolved to go on land:
 > Fin_____ _ ______ _________ ___ ______ will be leg______!
 
-# How it works
+## How it works
+
 My current idea for the algorithm is that it will first strip any extra characters, just leaving lowercase letters. Then, from each point, it will use a list of dictionary words to check for possible completions from that point.
 
 So it would pretty quickly find "Fin" as a possibility, but another one that I can see might be "F__all".
@@ -23,7 +26,13 @@ Both would be added to a list, which at the end of processing would procedurally
 
 At the very least, there would have to be 1 character of padding after each word, or else it would be very difficult to read.
 
-# Scoping
+### Detailed Steps:
+1. **Preprocessing**: Strip extra characters, leaving only lowercase letters.
+2. **Word Search**: From each position, check for possible completions using a dictionary of words.
+3. **Phrase Generation**: String together random phrases from the list of possible completions, ensuring readability by adding padding.
+
+## Scoping
+
 This algorithm will be extremely slow- O(n^3) at least.
 
 Some possible ways of scoping:
