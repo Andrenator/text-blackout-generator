@@ -1,5 +1,3 @@
-# main.py
-
 import os
 import pickle
 from trie import Trie
@@ -13,7 +11,7 @@ def load_trie():
 
 def find_words_recursive(trie, stem, remaining_string, found_words):
     if trie.is_valid_prefix(stem):
-        if trie.find_words_with_prefix(stem):
+        if trie.is_complete_word(stem):  # Check if the stem is a complete word
             found_words.append(stem)
         for i in range(len(remaining_string)):
             find_words_recursive(trie, stem + remaining_string[i], remaining_string[i+1:], found_words)

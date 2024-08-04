@@ -3,6 +3,9 @@ an
 ans
 as
 at
+b
+c
+d
 e
 ea
 eas
@@ -11,6 +14,14 @@ ena
 ens
 es
 et
+f
+g
+h
+i
+j
+k
+l
+m
 n
 na
 nan
@@ -20,6 +31,10 @@ nn
 ns
 nt
 nts
+o
+p
+q
+r
 s
 t
 ta
@@ -34,3 +49,9 @@ tes
 tn
 ts
 tt
+u
+v
+w
+x
+y
+z

@@ -25,6 +25,14 @@ class Trie:
             node = node.children[char]
         return True
     
+    def is_complete_word(self, word):
+        node = self.root
+        for char in word:
+            if char not in node.children:
+                return False
+            node = node.children[char]
+        return node.is_end_of_word
+    
     def find_words_with_prefix(self, prefix):
         def dfs(node, prefix):
             if node.is_end_of_word:
