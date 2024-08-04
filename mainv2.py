@@ -23,9 +23,18 @@ def replace_words_in_text(input_string, found_words):
     last_index = 0
     
     for word, start, end in found_words:
-        result.append(input_string[:start])
+        left = input_string[:start]
+        right = input_string[end:]
+
+        while len(left) > 0 and left[-1] != " ":
+            left = left[:-1]
+
+        while len(right) > 0 and right[0] != " ":
+            right = right[1:]
+
+        result.append(left)
         result.append(f"({word})")
-        result.append(input_string[end:])
+        result.append(right)
         result.append("\n")
     
     return ''.join(result)
