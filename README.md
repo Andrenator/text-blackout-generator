@@ -42,4 +42,5 @@ Some possible ways of scoping:
 
 # Shoutout
 Words list taken from this project:
-https://github.com/dwyl/english-words
+https://www.mit.edu/~ecprice/wordlist.10000
+Originally, but I added curse words and such and deleted nonsense words like "tn"
