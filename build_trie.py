@@ -7,7 +7,7 @@ from trie import Trie
 def build_trie_from_files(directory):
     trie = Trie()
     for filename in os.listdir(directory):
-        if filename.endswith(".txt"):
+        if filename in ("wordlist.txt", "added-list.txt"):
             filepath = os.path.join(directory, filename)
             with open(filepath, 'r') as f:
                 words = f.read().split()
