@@ -110,6 +110,7 @@ toughness
 trample
 triggered
 triggers
+turd
 twat
 unspent
 vanishes

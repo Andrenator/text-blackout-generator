@@ -1,4 +1,3 @@
-aaa
 aaron
 abandoned
 abc
@@ -237,7 +236,6 @@ airplane
 airport
 airports
 aka
-ala
 alabama
 alan
 alarm
@@ -260,7 +258,6 @@ algebra
 algeria
 algorithm
 algorithms
-ali
 alias
 alice
 alien
@@ -543,12 +540,10 @@ ashley
 asia
 asian
 aside
-asin
 ask
 asked
 asking
 asks
-asn
 asp
 aspect
 aspects
@@ -2319,7 +2314,6 @@ delays
 delegation
 delete
 deleted
-delhi
 delicious
 delight
 deliver
@@ -2738,7 +2732,6 @@ earl
 earlier
 earliest
 early
-earn
 earned
 earning
 earnings
@@ -2755,7 +2748,6 @@ eastern
 easy
 eat
 eating
-eau
 ebay
 ebony
 ebook
@@ -2788,7 +2780,6 @@ editorials
 editors
 edmonton
 eds
-edt
 educated
 education
 educational
@@ -2877,7 +2868,6 @@ enable
 enabled
 enables
 enabling
-enb
 enclosed
 enclosure
 encoding
@@ -2958,7 +2948,6 @@ environment
 environmental
 environments
 enzyme
-eos
 epa
 epic
 epinions
@@ -2997,7 +2986,6 @@ essential
 essentially
 essentials
 essex
-est
 establish
 established
 establishing
@@ -3020,8 +3008,6 @@ eugene
 euro
 europe
 european
-euros
-eva
 eval
 evaluate
 evaluated
@@ -3746,11 +3732,9 @@ gospel
 gossip
 got
 gothic
-goto
 gotta
 gotten
 gourmet
-gov
 governance
 governing
 government
@@ -3843,7 +3827,6 @@ guess
 guest
 guestbook
 guests
-gui
 guidance
 guide
 guided
@@ -3984,7 +3967,6 @@ heel
 height
 heights
 held
-helen
 helena
 helicopter
 hell
@@ -4007,7 +3989,6 @@ herbal
 herbs
 here
 hereby
-herein
 heritage
 hero
 heroes
@@ -4043,7 +4024,6 @@ hired
 hiring
 his
 hispanic
-hist
 historic
 historical
 history
@@ -4206,7 +4186,6 @@ ids
 ieee
 ignore
 ignored
-iii
 ill
 illegal
 illinois
@@ -4506,7 +4485,6 @@ iowa
 ipaq
 ipod
 ips
-ira
 iran
 iraq
 iraqi
@@ -4535,7 +4513,6 @@ issn
 issue
 issued
 issues
-ist
 istanbul
 it
 italia
@@ -4804,7 +4781,6 @@ las
 laser
 last
 lasting
-lat
 late
 lately
 later
@@ -4864,7 +4840,6 @@ lebanon
 lecture
 lectures
 led
-lee
 leeds
 left
 leg
@@ -5091,7 +5066,6 @@ low
 lower
 lowest
 lows
-ltd
 lucas
 lucia
 luck
@@ -5134,7 +5108,6 @@ magnet
 magnetic
 magnificent
 magnitude
-mai
 maiden
 mail
 mailed
@@ -5252,7 +5225,6 @@ mastercard
 masters
 masturbating
 masturbation
-mat
 match
 matched
 matches
@@ -5282,7 +5254,6 @@ may
 maybe
 mayor
 mazda
-mba
 mcdonald
 meal
 meals
@@ -5473,7 +5444,6 @@ missouri
 mistake
 mistakes
 mistress
-mit
 mitchell
 mitsubishi
 mix
@@ -6257,7 +6227,6 @@ periodically
 periods
 peripheral
 peripherals
-perl
 permalink
 permanent
 permission
@@ -6302,7 +6271,6 @@ phases
 phd
 phenomenon
 phentermine
-phi
 phil
 philadelphia
 philip
@@ -7027,7 +6995,6 @@ reductions
 reed
 reef
 reel
-ref
 refer
 reference
 referenced
@@ -7079,10 +7046,8 @@ regulations
 regulatory
 rehab
 rehabilitation
-reid
 reject
 rejected
-rel
 relate
 related
 relates
@@ -7323,7 +7288,6 @@ ring
 rings
 ringtone
 ringtones
-rio
 rip
 ripe
 rise
@@ -7366,7 +7330,6 @@ romance
 romania
 romantic
 rome
-ron
 ronald
 roof
 room
@@ -8333,7 +8296,6 @@ supports
 suppose
 supposed
 supreme
-sur
 sure
 surely
 surf
@@ -8489,7 +8451,6 @@ teen
 teenage
 teens
 teeth
-tel
 telecharger
 telecom
 telecommunications
@@ -8550,9 +8511,7 @@ textile
 textiles
 texts
 texture
-tft
 tgp
-thai
 thailand
 than
 thank
@@ -8848,7 +8807,6 @@ trembl
 tremendous
 trend
 trends
-treo
 tri
 trial
 trials
@@ -9018,7 +8976,6 @@ ur
 urban
 urge
 urgent
-uri
 url
 urls
 uruguay
