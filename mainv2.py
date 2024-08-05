@@ -47,6 +47,7 @@ if __name__ == "__main__":
     found_words = []
 
     for i in range(len(clean_string)):
+        print(clean_string[i], end="", flush=True)
         find_words_recursive(trie, clean_string[i], clean_string[i+1:], found_words, i, len(clean_string))
     
     found_words = list(set(found_words))  # Remove duplicates
