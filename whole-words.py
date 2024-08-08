@@ -29,16 +29,17 @@ def replace_words_in_text(input_string, found_words):
         left = input_string[:start]
         right = input_string[end:]
 
-        while len(left) > 0 and left[-1] != " ":
+        while len(left) > 0 and left[-1].isalpha():
             left = left[:-1]
 
-        while len(right) > 0 and right[0] != " ":
+        while len(right) > 0 and right[0].isalpha():
             right = right[1:]
 
-        result.append(left)
-        result.append(f"({word})")
-        result.append(right)
-        result.append("\n")
+        if left + word + right != input_string:
+            result.append(left)
+            result.append(f"({word})")
+            result.append(right)
+            result.append("\n")
     
     return ''.join(result)
 
@@ -57,5 +58,5 @@ if __name__ == "__main__":
     found_words.sort(key=lambda x: (len(x[0]), x[1]))  # Sort by length and then by start index
     print(f"Found words: {[(word, start, end) for word, start, end in found_words]}")
 
-    replaced_text = replace_words_in_text(input_string, found_words)
+    replaced_text = replace_words_in_text(clean_string, found_words)
     print(f"Replaced text:\n{replaced_text}")

@@ -4,6 +4,7 @@ aaa
 ab
 ac
 ace
+acre
 ad
 ada
 ae
@@ -91,6 +92,7 @@ cord
 corner
 cp
 cr
+credit
 crm
 cs
 ct
@@ -136,6 +138,7 @@ eas
 eau
 ec
 ed
+eddie
 edt
 ee
 ef
@@ -205,6 +208,7 @@ hb
 hc
 hd
 he
+heath
 helen
 her
 herein
@@ -239,6 +243,7 @@ ir
 ira
 irrr
 is
+isaac
 ist
 iv
 ix
@@ -256,6 +261,7 @@ js
 k
 ka
 kb
+kent
 kg
 km
 ko
@@ -319,8 +325,10 @@ na
 nan
 nas
 nat
+nato
 nb
 nc
+ncaa
 nd
 ne
 nec
@@ -360,6 +368,7 @@ op
 or
 os
 ot
+ottowa
 ou
 oz
 p
@@ -414,7 +423,7 @@ rp
 rr
 rs
 rt
-ru
+ru ottowa
 rv
 rw
 rx
@@ -516,9 +525,11 @@ vp
 vs
 vt
 w
+watt
 wb
 wc
 we
+wheat
 wi
 wm
 wn

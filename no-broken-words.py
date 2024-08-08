@@ -14,8 +14,7 @@ def find_words_recursive(trie, stem, remaining_string, found_words, start_index,
         if trie.is_complete_word(stem):  # Check if the stem is a complete word
             end_index = original_length - len(remaining_string)
             found_words.append((stem, start_index, end_index))
-        for i in range(len(remaining_string)):
-            find_words_recursive(trie, stem + remaining_string[i], remaining_string[i+1:], found_words, start_index, original_length)
+        find_words_recursive(trie, stem + remaining_string[0], remaining_string[1:], found_words, start_index, original_length)
 
 def replace_words_in_text(input_string, found_words):
     result = []

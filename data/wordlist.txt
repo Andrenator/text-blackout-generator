@@ -79,7 +79,6 @@ acquire
 acquired
 acquisition
 acquisitions
-acre
 acres
 acrobat
 across
@@ -2092,7 +2091,6 @@ creativity
 creator
 creature
 creatures
-credit
 credits
 creek
 crest
@@ -2738,7 +2736,6 @@ economics
 economies
 economy
 ecuador
-eddie
 eden
 edgar
 edge
@@ -3928,7 +3925,6 @@ hearts
 heat
 heated
 heater
-heath
 heather
 heating
 heaven
@@ -4465,7 +4461,6 @@ iron
 irrigation
 irs
 isa
-isaac
 isbn
 islam
 islamic
@@ -4637,7 +4632,6 @@ kennedy
 kenneth
 kenny
 keno
-kent
 kentucky
 kenya
 kept
@@ -5604,7 +5598,6 @@ nationally
 nations
 nationwide
 native
-nato
 natural
 naturally
 naturals
@@ -5618,7 +5611,6 @@ navigator
 navy
 nba
 nbc
-ncaa
 near
 nearby
 nearest
@@ -9197,7 +9189,6 @@ waterproof
 waters
 watershed
 watson
-watt
 watts
 wav
 wave
@@ -9260,7 +9251,6 @@ whale
 what
 whatever
 whats
-wheat
 wheel
 wheels
 when
