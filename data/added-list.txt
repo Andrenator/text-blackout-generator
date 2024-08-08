@@ -3,6 +3,7 @@ activating
 afterward
 allies
 alongside
+amongus
 arcane
 arse
 arsehead
@@ -13,16 +14,24 @@ asshole
 attacking
 aura
 auras
+bapped
 bastard
+blunt
+blunts
 bollocks
+bong
+bongs
 brand-new
 bullshit
 butthole
 can't
+chode
 chooses
 colorless
 countered
 countering
+crib
+cries
 dammit
 damned
 deathtouch
@@ -45,7 +54,9 @@ exile
 exiled
 flashback
 formidable
+fried
 fucker
+ganja
 goad
 goaded
 goddammit
@@ -81,6 +92,7 @@ planeswalkers
 prevents
 prick
 randomize
+reefer
 resolves
 resolving
 rites
@@ -92,6 +104,8 @@ shuffle
 shuffled
 sickness
 sideways
+smoker
+smokes
 sorceries
 sorcery
 spells
@@ -104,6 +118,7 @@ supertype
 survived
 swamp
 swamps
+taker
 tapped
 tapping
 tokens
@@ -113,6 +128,7 @@ triggered
 triggers
 turd
 twat
+undertaker
 unspent
 vanishes
 vigilance

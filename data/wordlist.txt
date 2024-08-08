@@ -62,7 +62,6 @@ accurate
 accurately
 accused
 acdbentity
-ace
 acer
 achieve
 achieved
@@ -313,7 +312,6 @@ ambassador
 amber
 ambien
 ambient
-amend
 amended
 amendment
 amendments
@@ -367,11 +365,9 @@ animals
 animated
 animation
 anime
-ann
 anna
 anne
 annex
-annie
 anniversary
 annotated
 annotation
@@ -585,13 +581,11 @@ assured
 asthma
 astrology
 astronomy
-asus
 ate
 athens
 athletes
 athletic
 athletics
-ati
 atlanta
 atlantic
 atlas
@@ -638,7 +632,6 @@ auditor
 aug
 august
 aurora
-aus
 austin
 australia
 australian
@@ -664,11 +657,9 @@ autumn
 availability
 available
 avatar
-ave
 avenue
 average
 avg
-avi
 aviation
 avoid
 avoiding
@@ -1235,7 +1226,6 @@ calling
 calls
 calm
 calvin
-cam
 cambodia
 cambridge
 camcorder
@@ -1319,8 +1309,6 @@ carroll
 carry
 carrying
 cars
-cart
-carter
 cartoon
 cartoons
 cartridge
@@ -1481,7 +1469,6 @@ chem
 chemical
 chemicals
 chemistry
-chen
 cheque
 cherry
 chess
@@ -1543,7 +1530,6 @@ cindy
 cinema
 cingular
 cio
-cir
 circle
 circles
 circuit
@@ -1699,7 +1685,6 @@ columbus
 column
 columnists
 columns
-com
 combat
 combination
 combinations
@@ -1810,7 +1795,6 @@ computed
 computer
 computers
 computing
-con
 concentrate
 concentration
 concentrations
@@ -2016,13 +2000,11 @@ copyright
 copyrighted
 copyrights
 coral
-cord
 cordless
 core
 cork
 corn
 cornell
-corner
 corners
 cornwall
 corp
@@ -2236,7 +2218,6 @@ dawn
 day
 days
 dayton
-ddr
 dead
 deadline
 deadly
@@ -2280,7 +2261,6 @@ decorative
 decrease
 decreased
 dedicated
-dee
 deemed
 deep
 deeper
@@ -2321,7 +2301,6 @@ delivered
 delivering
 delivers
 delivery
-dell
 delta
 deluxe
 dem
@@ -2488,7 +2467,6 @@ dining
 dinner
 dip
 diploma
-dir
 direct
 directed
 direction
@@ -2584,7 +2562,6 @@ divisions
 divorce
 divx
 diy
-dna
 dns
 doc
 dock
@@ -2670,7 +2647,6 @@ dress
 dressed
 dresses
 dressing
-drew
 dried
 drill
 drilling
@@ -2694,7 +2670,6 @@ drums
 drunk
 dry
 dryer
-dsc
 dsl
 dts
 dual
@@ -2965,8 +2940,6 @@ equipment
 equipped
 equity
 equivalent
-era
-eric
 ericsson
 erik
 erotic
@@ -3016,7 +2989,6 @@ evaluation
 evaluations
 evanescence
 evans
-eve
 even
 evening
 event
@@ -3982,7 +3954,6 @@ henderson
 henry
 hentai
 hepatitis
-her
 herald
 herb
 herbal
@@ -4236,7 +4207,6 @@ improvements
 improving
 inappropriate
 inbox
-inc
 incentive
 incentives
 incest
@@ -4494,7 +4464,6 @@ irish
 iron
 irrigation
 irs
-is
 isa
 isaac
 isbn
@@ -5171,7 +5140,6 @@ map
 maple
 mapping
 maps
-mar
 marathon
 marble
 marc
@@ -5274,7 +5242,6 @@ mechanical
 mechanics
 mechanism
 mechanisms
-med
 medal
 media
 median
@@ -5657,7 +5624,6 @@ nearby
 nearest
 nearly
 nebraska
-nec
 necessarily
 necessary
 necessity
@@ -5712,7 +5678,6 @@ newspapers
 newton
 next
 nextel
-nfl
 nhl
 nhs
 niagara
@@ -5794,7 +5759,6 @@ november
 now
 nowhere
 nsw
-ntsc
 nuclear
 nude
 nudist
@@ -5818,7 +5782,6 @@ nutten
 nvidia
 nyc
 nylon
-oak
 oakland
 oaks
 oasis
@@ -6847,7 +6810,6 @@ racial
 racing
 rack
 racks
-radar
 radiation
 radical
 radio
@@ -7324,7 +7286,6 @@ rolled
 roller
 rolling
 rolls
-rom
 roman
 romance
 romania
@@ -7421,7 +7382,6 @@ salon
 salt
 salvador
 salvation
-sam
 samba
 same
 samoa
@@ -7495,7 +7455,6 @@ scholarship
 scholarships
 school
 schools
-sci
 science
 sciences
 scientific
@@ -7597,7 +7556,6 @@ semi
 semiconductor
 seminar
 seminars
-sen
 senate
 senator
 senators
@@ -7751,11 +7709,9 @@ shows
 showtimes
 shut
 shuttle
-sic
 sick
 side
 sides
-sie
 siemens
 sierra
 sig
@@ -8038,7 +7994,6 @@ square
 squirt
 squirting
 src
-sri
 ssl
 stability
 stable
@@ -8324,7 +8279,6 @@ survive
 survivor
 survivors
 susan
-suse
 suspect
 suspected
 suspended
@@ -8444,9 +8398,7 @@ technological
 technologies
 technology
 techrepublic
-ted
 teddy
-tee
 teen
 teenage
 teens
@@ -8595,7 +8547,6 @@ throwing
 thrown
 throws
 thru
-thu
 thumb
 thumbnail
 thumbnails
@@ -8629,7 +8580,6 @@ timer
 times
 timing
 timothy
-tin
 tiny
 tion
 tions
@@ -8807,7 +8757,6 @@ trembl
 tremendous
 trend
 trends
-tri
 trial
 trials
 triangle
@@ -8878,7 +8827,6 @@ turtle
 tutorial
 tutorials
 tvcom
-tvs
 twelve
 twenty
 twice
@@ -8972,7 +8920,6 @@ ups
 upset
 upskirt
 upskirts
-ur
 urban
 urge
 urgent
@@ -8980,10 +8927,8 @@ url
 urls
 uruguay
 urw
-us
 usa
 usage
-usb
 usc
 usd
 usda
@@ -8997,7 +8942,6 @@ uses
 usgs
 using
 usps
-usr
 usual
 usually
 utah
