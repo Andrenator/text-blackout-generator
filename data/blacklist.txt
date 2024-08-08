@@ -92,7 +92,6 @@ cord
 corner
 cp
 cr
-credit
 crm
 cs
 ct
@@ -423,7 +422,7 @@ rp
 rr
 rs
 rt
-ru ottowa
+ru
 rv
 rw
 rx
