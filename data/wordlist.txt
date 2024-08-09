@@ -524,7 +524,6 @@ apartment
 apartments
 ape
 aperitif
-api
 apnic
 apollo
 apology
@@ -1620,7 +1619,6 @@ caftan
 cage
 cake
 cakes
-cal
 calcification
 calcium
 calculate
@@ -1669,7 +1667,6 @@ camping
 camps
 campus
 cams
-can
 can't
 canada
 canadian
@@ -1714,10 +1711,8 @@ cappuccino
 caps
 captain
 caption
-captor
 capture
 captured
-car
 carabao
 caramel
 caravan
@@ -1777,8 +1772,6 @@ cartoons
 cartridge
 cartridges
 carving
-cas
-casa
 cascade
 case
 casement
@@ -1865,7 +1858,6 @@ centered
 centers
 centimeter
 central
-centre
 centres
 cents
 centuries
@@ -1886,7 +1878,6 @@ certification
 certified
 cesspool
 cest
-cfr
 cgi
 chad
 chafe
@@ -2029,7 +2020,6 @@ chit-chat
 chivalry
 chive
 chives
-cho
 chocolate
 chode
 choice
@@ -2087,7 +2077,6 @@ cindy
 cinema
 cingular
 cinnamon
-cio
 circadian
 circle
 circles
@@ -3053,7 +3042,6 @@ dealing
 deals
 dealt
 dealtime
-dean
 dear
 dearest
 death
@@ -3503,9 +3491,7 @@ documentation
 documentcreatetextnode
 documented
 documents
-dod
 dodge
-doe
 does
 doesn
 dog
@@ -3651,7 +3637,6 @@ duel
 dueling
 duffel
 dugout
-dui
 duke
 dulcimer
 dumb
@@ -3972,7 +3957,6 @@ entities
 entitled
 entity
 entrance
-entree
 entrepreneur
 entrepreneurs
 entries
@@ -4019,7 +4003,6 @@ erik
 erosion
 erotic
 erotica
-erp
 error
 errors
 escalator
@@ -4049,7 +4032,6 @@ estimation
 estonia
 estrogen
 estuary
-etc
 eternal
 eternity
 ethernet
@@ -4209,7 +4191,6 @@ explore
 explorer
 exploring
 explosion
-expo
 export
 exports
 expose
@@ -4626,7 +4607,6 @@ forbidden
 force
 forced
 forces
-ford
 forearm
 forebear
 forecast
@@ -4710,7 +4690,6 @@ fraud
 fraudster
 freak
 freckle
-fred
 frederick
 free
 freebsd
@@ -5269,7 +5248,6 @@ hang
 hanger
 hanging
 hans
-hansen
 happen
 happened
 happening
@@ -5381,7 +5359,6 @@ heaven
 heavily
 heavy
 hebrew
-hectare
 hedge
 hedgehog
 heel
@@ -5675,11 +5652,9 @@ icing
 icon
 icons
 icq
-ict
 icy
 id
 idaho
-ide
 idea
 ideal
 ideas
@@ -5697,7 +5672,6 @@ idiot
 idle
 idol
 ids
-ieee
 igloo
 ignorance
 ignorant
@@ -5808,7 +5782,6 @@ increasingly
 incredible
 incubation
 incurred
-ind
 indeed
 independence
 independent
@@ -5904,7 +5877,6 @@ ink
 inkjet
 inlay
 inline
-inn
 inner
 innervation
 innocence
@@ -6077,12 +6049,10 @@ involved
 involvement
 involves
 involving
-ion
 iowa
 ipaq
 ipod
 ips
-iran
 iraqi
 irc
 ireland
@@ -6094,7 +6064,6 @@ ironclad
 irony
 irrigation
 irs
-isa
 isbn
 ischemia
 islam
@@ -6102,7 +6071,6 @@ islamic
 island
 islands
 isle
-iso
 isogloss
 isolated
 isolation
@@ -6264,7 +6232,6 @@ justify
 jute
 juvenile
 jvc
-kai
 kale
 kamikaze
 kangaroo
@@ -6417,7 +6384,6 @@ lament
 lamp
 lamps
 lan
-lanai
 lancaster
 lance
 land
@@ -6433,14 +6399,12 @@ language
 languages
 lanka
 lantern
-lap
 laparoscope
 lapdog
 laptop
 laptops
 larch
 lard
-larder
 large
 largely
 larger
@@ -6449,7 +6413,6 @@ lark
 larry
 larva
 laryngitis
-las
 lasagna
 laser
 lashes
@@ -6546,7 +6509,6 @@ leisure
 lemon
 lemonade
 lemur
-len
 lender
 lenders
 lending
@@ -6561,7 +6523,6 @@ leone
 leopard
 leprosy
 leptocephalus
-les
 lesbian
 lesbians
 leslie
@@ -6711,8 +6672,6 @@ living
 liz
 lizard
 llama
-llc
-llp
 load
 loaded
 loading
@@ -7572,7 +7531,6 @@ mythology
 nail
 nails
 naked
-nam
 name
 named
 namely
@@ -7593,7 +7551,6 @@ nascar
 nasdaq
 nashville
 nasty
-nathan
 nation
 national
 nationality
@@ -7720,7 +7677,6 @@ nightmare
 nights
 nike
 nikon
-nil
 nine
 ninja
 nintendo
@@ -7728,12 +7684,10 @@ nipple
 nipples
 nirvana
 nissan
-nit
 nitrogen
 no
 noble
 nobody
-nod
 node
 nodes
 noir
@@ -7753,7 +7707,6 @@ nonsense
 noodle
 noodles
 noon
-nor
 norfolk
 norm
 normal
@@ -8012,7 +7965,6 @@ orders
 ordinance
 ordinary
 ordination
-ore
 oregano
 oregon
 org
@@ -8143,7 +8095,6 @@ page
 pages
 pagoda
 paid
-pail
 pain
 painful
 paint
@@ -8387,7 +8338,6 @@ people
 peoples
 pepper
 pepperoni
-per
 perceived
 percent
 percentage
@@ -8738,7 +8688,6 @@ popularity
 population
 populations
 populist
-por
 porcelain
 porch
 porcupine
@@ -9093,7 +9042,6 @@ prune
 pruner
 pseudocode
 pseudoscience
-psi
 psp
 pst
 psychiatrist
@@ -9104,7 +9052,6 @@ psychologist
 psychology
 ptarmigan
 pts
-pty
 pub
 public
 publication
@@ -9254,7 +9201,6 @@ radish
 radius
 raffle
 raft
-rag
 rage
 raid
 rail
@@ -9284,7 +9230,6 @@ ramie
 ran
 ranch
 rancher
-rand
 random
 randomisation
 randomization
@@ -9591,7 +9536,6 @@ replication
 replied
 replies
 reply
-report
 reported
 reporter
 reporters
@@ -9747,7 +9691,6 @@ revolutionary
 revolver
 reward
 rewards
-rfc
 rhetoric
 rheumatism
 rhinoceros
@@ -9762,7 +9705,6 @@ rich
 richardson
 richmond
 rico
-rid
 riddle
 ride
 rider
@@ -9832,7 +9774,6 @@ roman
 romance
 romania
 romantic
-rome
 ronald
 roof
 room
@@ -9968,7 +9909,6 @@ sampling
 samsung
 samuel
 samurai
-san
 sanction
 sanctity
 sanctuary
@@ -9983,15 +9923,12 @@ sanity
 sans
 santa
 sanyo
-sao
-sap
 sapphire
 sara
 sarah
 sardine
 sari
 sarong
-sas
 sash
 saskatchewan
 sat
@@ -10083,7 +10020,6 @@ scoring
 scorn
 scorpion
 scotch
-scotia
 scotland
 scott
 scottish
@@ -10094,7 +10030,6 @@ scrap
 scraper
 scratch
 screamer
-screen
 screening
 screens
 screensaver
@@ -10114,7 +10049,6 @@ scripture
 scroll
 scrutiny
 scry
-scsi
 scuba
 sculpting
 sculptural
@@ -10513,7 +10447,6 @@ skate
 skating
 skean
 skeleton
-ski
 skiing
 skill
 skilled
@@ -10523,7 +10456,6 @@ skins
 skip
 skirt
 skirts
-sku
 skull
 skullcap
 skullduggery
@@ -10872,7 +10804,6 @@ squirrel
 squirt
 squirting
 src
-ssl
 stab
 stability
 stable
@@ -11672,7 +11603,6 @@ thus
 thy
 thyme
 tiara
-tic
 tick
 ticket
 tickets
@@ -11708,7 +11638,6 @@ tinderbox
 tinkle
 tintype
 tiny
-tion
 tions
 tip
 tips
@@ -12117,7 +12046,6 @@ undo
 unemployment
 unexpected
 unfortunately
-uni
 unibody
 unified
 uniform
@@ -12164,7 +12092,6 @@ upload
 uploaded
 upon
 upper
-ups
 upset
 upskirt
 upskirts
@@ -12179,7 +12106,6 @@ urls
 urn
 uruguay
 urw
-usa
 usage
 usc
 usd
@@ -12289,7 +12215,6 @@ venture
 ventures
 venue
 venues
-ver
 veranda
 verb
 verbal
@@ -12341,7 +12266,6 @@ victims
 victor
 victorian
 victory
-vid
 video
 videos
 vids

@@ -32,10 +32,9 @@ def replace_words_in_text(input_string, found_words):
             right = right[1:]
 
         if left + word + right != input_string:
-            result.append(left)
-            result.append(f"({word})")
-            result.append(right)
-            result.append("\n")
+            resultString = left + f"({word})" + right + "\n"
+            if resultString not in result:
+                result.append(resultString)
     
     return ''.join(result)
 
